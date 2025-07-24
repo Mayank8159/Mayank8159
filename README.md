@@ -37,4 +37,4 @@
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio](https://mayanksharma.vercel.app/)
-- 📮 [LinkedIn](https://linkedin.com/in/mayanksharma)
+- 📮 [LinkedIn](https://www.linkedin.com/in/mayank-kumar-sharma-900318318/)
