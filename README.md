@@ -27,10 +27,13 @@
 
 ---
 
-### 🔥 GitHub Profile
+### 🔥 GitHub Stats & Activity
 
 ![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayank8159&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-[My Gitstar Rank](https://gitstar-ranking.com/users/Mayank8159)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank8159&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank8159&theme=radical)](https://git.io/streak-stats)
 
 ---
 
