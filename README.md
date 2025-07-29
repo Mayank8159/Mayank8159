@@ -27,11 +27,12 @@
 
 ---
 
-## 📈 GitHub Stats
+### 🔥 GitHub Profile
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayanksharma&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=false)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayanksharma&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksharma&layout=compact&theme=radical)
+[My Gitstar Rank](https://gitstar-ranking.com/users/mayanksharma)  
+[My Commits.Top Profile](https://commits.top/India/your-profile-link)
 
 ---
 
