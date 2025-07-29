@@ -29,10 +29,8 @@
 
 ### 🔥 GitHub Profile
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayanksharma&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-[My Gitstar Rank](https://gitstar-ranking.com/users/mayanksharma)  
-[My Commits.Top Profile](https://commits.top/India/your-profile-link)
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayank8159&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[My Gitstar Rank](https://gitstar-ranking.com/users/Mayank8159)  
 
 ---
 
