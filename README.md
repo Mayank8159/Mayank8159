@@ -39,5 +39,5 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio](https://mayanksharma.vercel.app/)
+- 🌐 [Portfolio](https://portfolio-u2d6.vercel.app/)
 - 📮 [LinkedIn](https://www.linkedin.com/in/mayank-kumar-sharma-900318318/)
