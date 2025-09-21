@@ -1,33 +1,44 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 
 <p align="center">
- 🔐 Backend Developer | Firebase Cloud Messaging Wrangler | Scalable Architecture Buff
+ 🔐 Full-Stack Developer | ✨ Premium UI/UX Craftsman
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 I build secure authentication systems with JWT & bcrypt
-- ⚙️ I debug middleware logic like it’s second nature
-- 📱 Experienced with React Native and Flutter for cross-platform solutions
-- 🖌️ Tailwind CSS enthusiast for pixel-perfect design
-- 🚀 Hosting full-stack apps on Vercel & Render with secured environments
-- 📘 I love writing detailed project documentation and README files
+- 💡 Visionary developer blending secure backend logic with emotionally resonant UI
+- 🔐 Architecting authentication flows with JWT, bcrypt, and conditional rendering
+- 🧩 Building modular, scalable platforms with MongoDB, Express, and React
+- 📱 Mobile-first design expert with keyboard-aware layouts and floating input bars
+- 🎨 Tailwind CSS + Framer Motion enthusiast for glowing gradients and glassmorphism
+- 🌌 Passionate about crafting inclusive, community-driven digital experiences
+- 📘 I write clean documentation and love polishing every pixel
 
 ---
 
-## 🔥 Tech Stack & Tools
+## 🔧 Tech Stack & Tools
 
-- **Languages**: JavaScript, Dart
-- **Frontend**: React, Tailwind CSS, React Native, Flutter
-- **Backend**: Node.js, Express
-- **Cloud & Services**: Firebase, FCM, Vercel, Render
-- **Dev Tools**: GitHub, Postman, VS Code
+| Category       | Tools & Frameworks                                                                 |
+|----------------|-------------------------------------------------------------------------------------|
+| **Languages**  | JavaScript, Dart                                                                   |
+| **Frontend**   | React, Tailwind CSS, Framer Motion, React Native, Flutter                          |
+| **Backend**    | Node.js, Express, MongoDB                                                          |
+| **Cloud & Infra** | Firebase, FCM, Vercel, Render, JWT, bcrypt                                       |
+| **Dev Tools**  | GitHub, Postman, VS Code, Figma                                                    |
 
 ---
 
-### 🔥 GitHub Stats & Activity
+## 🌟 Featured Projects
+
+- 🔭 **Gemini Discussion Board** — Secure, animated discussion platform with glowing UI and identity-aware features
+- 🪐 **Student Community Portal** — Authentication + backend integration with MongoDB, floating input bar, and responsive design
+- ✨ **Cosmic UI Kit** — Glassmorphic components with Google-inspired branding and accessibility-first design
+
+---
+
+## 📊 GitHub Stats & Activity
 
 ![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayank8159&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
@@ -41,3 +52,9 @@
 
 - 🌐 [Portfolio](https://portfolio-u2d6.vercel.app/)
 - 📮 [LinkedIn](https://www.linkedin.com/in/mayank-kumar-sharma-900318318/)
+- 🧠 [GitHub](https://github.com/Mayank8159)
+
+---
+
+> “Design isn’t just how it looks — it’s how it feels, flows, and empowers.”  
+> — Mayank Sharma
