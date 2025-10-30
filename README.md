@@ -10,23 +10,25 @@
 
 - 💡 Visionary developer blending secure backend logic with emotionally resonant UI
 - 🔐 Architecting authentication flows with JWT, bcrypt, and conditional rendering
-- 🧩 Building modular, scalable platforms with MongoDB, Express, and React
+- 🧩 Building modular, scalable platforms with MongoDB, Express, React, and Next.js
 - 📱 Mobile-first design expert with keyboard-aware layouts and floating input bars
 - 🎨 Tailwind CSS + Framer Motion enthusiast for glowing gradients and glassmorphism
-- 🌌 Passionate about crafting inclusive, community-driven digital experiences
+- 🧠 Exploring Computer Vision with OpenCV and TensorFlow for intelligent, immersive experiences
+- 🌌 Passionate about crafting inclusive, community-driven digital ecosystems
 - 📘 I write clean documentation and love polishing every pixel
 
 ---
 
 ## 🔧 Tech Stack & Tools
 
-| Category       | Tools & Frameworks                                                                 |
-|----------------|-------------------------------------------------------------------------------------|
-| **Languages**  | JavaScript, Dart                                                                   |
-| **Frontend**   | React, Tailwind CSS, Framer Motion, React Native, Flutter                          |
-| **Backend**    | Node.js, Express, MongoDB                                                          |
-| **Cloud & Infra** | Firebase, FCM, Vercel, Render, JWT, bcrypt                                       |
-| **Dev Tools**  | GitHub, Postman, VS Code, Figma                                                    |
+| Category           | Tools & Frameworks                                                                 |
+|--------------------|-------------------------------------------------------------------------------------|
+| **Languages**      | JavaScript, Dart                                                                   |
+| **Frontend**       | React, Next.js, Tailwind CSS, Framer Motion, React Native, Flutter                 |
+| **Backend**        | Node.js, Express, MongoDB                                                          |
+| **Cloud & Infra**  | Firebase, FCM, Vercel, Render, JWT, bcrypt                                         |
+| **AI & Vision**    | OpenCV, TensorFlow, Computer Vision                                                |
+| **Dev Tools**      | GitHub, Postman, VS Code, Figma                                                    |
 
 ---
 
@@ -58,3 +60,7 @@
 
 > “Design isn’t just how it looks — it’s how it feels, flows, and empowers.”  
 > — Mayank Sharma
+
+---
+
+Let me know if you'd like to add badges, animations, or a dynamic project showcase section next!
