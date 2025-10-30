@@ -61,6 +61,3 @@
 > “Design isn’t just how it looks — it’s how it feels, flows, and empowers.”  
 > — Mayank Sharma
 
----
-
-Let me know if you'd like to add badges, animations, or a dynamic project showcase section next!
