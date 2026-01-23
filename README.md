@@ -60,7 +60,6 @@ Passionate about crafting **cosmic-themed platforms, AI-powered tools, and immer
 
 ---
 
-### 🔝 Top Contributed Repos  
 ![](https://github-contributor-stats.vercel.app/api?username=Mayank8159&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ---
