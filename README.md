@@ -3,7 +3,7 @@
 </p>
 
 # Engineering Lead | Neural Systems Architect
-### Google Gemini Student Community • UEM Kolkata
+### Google Gemini Student Community • IEM Kolkata
 
 Computer Science Engineer specializing in **Artificial Intelligence** and **Machine Learning**. My focus lies in developing scalable neural architectures and high-fidelity immersive interfaces that bridge the gap between human intent and machine execution.
 
